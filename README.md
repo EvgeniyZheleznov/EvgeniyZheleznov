@@ -19,7 +19,7 @@
 * Pandas
 * Scikit-Learn
 * PostgreSQL
-* Keras
+
 
 ## Contacts
 [<img align="left" alt="ArtInte1/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]  
