@@ -1,7 +1,6 @@
 ### Hello! I'm Evgeniy!👋
 ## I'm a Data Scientist
 - I've completed the Data Science Specialist course at Yandex.Praktikum
-- I have a background in physics and mathematics
 - Areas of interest are natural sciences and engineering
 - I'm passionate about the idea of design and development artificial intelligence systems and want to become a professional in this field
 - I'm constantly updating my knowledge
