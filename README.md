@@ -22,6 +22,7 @@
 
 
 ## Contacts
-[<img align="left" alt="ArtInte1/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]  
 
-[telegram]: [https://t.me/EvgeniyZheleznov]
+<h1 align="left"> 
+<a href="https://t.me/EvgeniyZheleznov" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="python" height="40"/> </a>
+</h1>
